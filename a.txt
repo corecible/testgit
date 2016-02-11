@@ -1,0 +1,9 @@
+92ec6d044cb3e39ae00500126a88c9ac342678d0591675f2231daafbf0877778:
+bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+
+
+173bee9b2f823b1ec45f379a9027bb2c9703597f80c785dce46f6fc276c410c5:
+tmp  var
+
+8963b20fff57ac62923c51b1a9c62b874f30a71b82b62990680e04399e93c446:
+etc  tmp  usr  var
